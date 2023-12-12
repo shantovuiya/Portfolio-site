@@ -1,0 +1,42 @@
+/*tablet layout*/
+
+@media only screen and (min-width:200px) and (max-width:991px){
+.service {
+	padding: 20px 0;
+}
+.col-6 {
+	width: 100%;
+}
+.col-4 {
+	width: 50%;
+}
+.skills .card{
+	height: 425px;
+}
+.col-7 {
+	width: 100%;
+}
+.about .about-text p {
+	 width: 100%; 
+}
+.col-5 {
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
